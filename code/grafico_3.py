@@ -119,6 +119,7 @@ plt.tight_layout()
 #     dpi=300
 # )
 
+plt.savefig("Evolução_Orçamento_Espacial_Tipo_Satélite.png", dpi=300)
 plt.show()
 
 
